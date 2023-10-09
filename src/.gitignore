@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+target/
+*.iml
+
+### VS Code ###
+.vscode/
